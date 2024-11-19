@@ -1,2 +1,6 @@
 heloo world
+<<<<<<< HEAD
 mama
+=======
+try to do
+>>>>>>> 4e75d9b06a37c4ce61b945c695688ee23902c20a
